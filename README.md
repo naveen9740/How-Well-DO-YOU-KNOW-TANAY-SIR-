@@ -1,4 +1,4 @@
-# Quiz WebApp Project-1
+# How Well 'DO YOU KNOW TANAY SIR ?'
 
 This WebApp was made Along with **Tanay Pratap sir** during his live *YouTube* session .
 
